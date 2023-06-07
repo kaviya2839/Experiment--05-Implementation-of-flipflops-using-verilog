@@ -136,9 +136,9 @@ endmodule
 ![image](https://github.com/kaviya2839/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120553351/d9f4d0cb-4398-49b4-a358-bb811a8020dc)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS
-![image](https://github.com/kaviya2839/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120553351/e642edf6-5f66-4996-9b3b-05097864259f)
-
-
+![image](https://github.com/kaviya2839/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120553351/5ad36fd8-d0eb-4006-a0cf-46102497ffba)
+ 
+ 
 ### PROGRAM 2:
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
@@ -161,7 +161,8 @@ endmodule
 ![image](https://github.com/kaviya2839/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120553351/af0f708f-8822-4131-bfc7-3d15a04dd8ca)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS
-![image](https://github.com/kaviya2839/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120553351/0061a38b-5da9-46ba-b493-3029bdd22366)
+
+![image](https://github.com/kaviya2839/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120553351/3ada52d6-7f9b-4d0c-a3a8-964fafeae649)
 
 
 ### PROGRAM 3:
@@ -187,8 +188,8 @@ endmodule
 ![image](https://github.com/kaviya2839/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120553351/5a91e767-df44-483b-b54a-5aeef903b8f5)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS
+![image](https://github.com/kaviya2839/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120553351/41280c44-2a5c-4135-a342-cae52becc131)
 
-![image](https://github.com/kaviya2839/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120553351/dcdf142e-d18b-43d0-83a5-182589e54189)
 
 ### PROGRAM 4:
 /*
@@ -213,7 +214,8 @@ endmodule
 
 ### TIMING DIGRAMS FOR FLIP FLOPS
 
-![image](https://github.com/kaviya2839/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120553351/a5a96174-3f63-4d28-8386-61d4e8692180)
+![image](https://github.com/kaviya2839/Experiment--05-Implementation-of-flipflops-using-verilog/assets/120553351/3e8145e2-7eb0-4762-ad5e-2f345c701623)
+
 
 
 ### RESULTS 

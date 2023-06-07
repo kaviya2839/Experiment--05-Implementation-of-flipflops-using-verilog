@@ -197,7 +197,6 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 Developed by: KAVIYA SHREE S 
 RegisterNumber: 212222110018
 */
-
 module tff(t,qbar,q,clk);
 input t,clk;
 output q,qbar;
